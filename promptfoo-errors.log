@@ -1,0 +1,10 @@
+2025-06-05T15:49:52.908Z [ERROR]: Error running database migrations: Error: The module '/Users/sukhmanisaini/.npm/_npx/81bbc6515d992ace/node_modules/better-sqlite3/build/Release/better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-05T15:49:53.922Z [ERROR]: Error running database migrations: Error: The module '/Users/sukhmanisaini/.npm/_npx/81bbc6515d992ace/node_modules/better-sqlite3/build/Release/better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
